@@ -1,5 +1,6 @@
 # TAL_CalendarAPI
-This solution utilizes the following open source/MIT licensed componensts:
+This is a .NET core app (3.1.0) specifiically .NET core Web API with angularJS (1.8.2) as the front end javascript framework. 
+The solution utilizes the following open source/MIT licensed componensts:
 1. moment.js
 2. datetimepicker.js
 3. ui-calendar.js
