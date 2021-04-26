@@ -6,8 +6,9 @@ This solution utilizes the following open source/MIT licensed componensts:
 4. FullCalendar v2.1.1
 
 Areas of Improvements needed
-1. Validation check on the text boxes
+1. Validation check on the input boxes
 2. Events dissapear after month changes or UI load
 3. Once Added can not remove/edit events
 4. Can add multiple events on the same date and time
 5. Resizing the UI does not render the UI properly. It introduces scroll bar which might not be ideal for some cases.
+6. The UI should indicate already pre booked hours (11, 12-1 and 3:30)
